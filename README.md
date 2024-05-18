@@ -1,0 +1,1 @@
+Neste projeto, desenvolvemos diversos conceitos de programação em JavaScript, incluindo arrays de objetos, funções, recursividade, iterações e algoritmos variados com diferentes complexidades de notação Big O, além de um modelo de algoritmo QuickSort.
